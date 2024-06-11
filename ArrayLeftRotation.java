@@ -12,9 +12,5 @@ public class ArrayLeftRotation {
         }
         return rotatedArray;
 
-<<<<<<< HEAD
     }
-=======
-    }
->>>>>>> 9b51ad9088a529cbdada925e682af7c812185f65
 }
